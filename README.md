@@ -1,3 +1,6 @@
+<img src="../download.png"/>
+
+
 Tell me how to remove them locally and remotely?
 
 locally : 
@@ -15,3 +18,12 @@ GIT stash
 
 To list all tags
 git tag
+
+
+Delete tag remotly:
+git push origin --delete V1.7
+
+
+Delete tag localy:
+git tag -d V1.7 
+
