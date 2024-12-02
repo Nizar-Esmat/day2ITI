@@ -1,5 +1,5 @@
-<img src="./../../Desktop/download.png"/>
 
+![Description](../download.png)
 
 Tell me how to remove them locally and remotely?
 
