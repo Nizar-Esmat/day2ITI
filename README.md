@@ -1,4 +1,4 @@
-<img src="../download.png"/>
+<img src="./../../Desktop/download.png"/>
 
 
 Tell me how to remove them locally and remotely?
