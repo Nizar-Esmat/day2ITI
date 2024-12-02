@@ -5,3 +5,9 @@ locally :
 
 remotely : 
 git push origin :dev
+
+
+
+Tell me how to checkout another branch without commit changes  ?
+
+GIT stash
